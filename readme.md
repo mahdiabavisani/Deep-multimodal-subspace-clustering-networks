@@ -1,6 +1,6 @@
 # Deep multimodal subspace clustering networks
 
-![fig2](https://user-images.githubusercontent.com/18729506/45457919-2f195c00-b6bf-11e8-8b03-cf8c4d49a2bc.jpg)
+![fig1](https://user-images.githubusercontent.com/18729506/45459073-ab626e00-b6c4-11e8-9271-227e6a0b1f22.jpg)
 
 
 
