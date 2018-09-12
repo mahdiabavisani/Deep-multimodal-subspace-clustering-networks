@@ -1,6 +1,7 @@
 # Deep multimodal subspace clustering networks
 
-![overview](./fig2.pdf)
+![fig2](https://user-images.githubusercontent.com/18729506/45457919-2f195c00-b6bf-11e8-8b03-cf8c4d49a2bc.jpg)
+
 
 
 ## Overview
@@ -8,8 +9,7 @@ This repository contains the implementation of the paper "Deep multimodal subspa
 
 "Deep multimodal subspace clustering networks" (DMSC)  investigated various fusion methods for the task of multimodal subspace clustering, and suggested a new fusion technique called "affinity fusion" as the idea of integrating complementary information from two modalities with respect to the similarities between datapoints across different modalities. 
 
-![overview](./fig1.pdf)
-
+![fig1](https://user-images.githubusercontent.com/18729506/45457918-2f195c00-b6bf-11e8-908b-01817a5e3387.jpg)
 
 
 ## Setup:
