@@ -23,7 +23,7 @@ Save the data in a `.mat` file that includes verctorized modalities as separate 
 A sample preprocessed dataset is available in: `Data/EYB_fc.mat` 
 
 
-### Running the code
+## Running the code
 
 #### Affinity fusion :
 Run `affinity_fusion.py` to do mutlimodal subspace clustering.  For demo a pretrained model trained on `EYB_fc` is avilable in `models/EYBfc_af.ckpt`
