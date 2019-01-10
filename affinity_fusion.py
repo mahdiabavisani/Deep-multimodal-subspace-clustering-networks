@@ -50,6 +50,7 @@ class ConvAE(object):
             latents, shape = self.encoder(x_input,weights,self.num_modalities)
 
         Coef = weights['Coef']
+        Coef = Coef - tf.diag(tf.diag_part(Coef))
         self.Coef = Coef
         z={}
         z_c={}
