@@ -1,5 +1,5 @@
 FROM tensorflow/tensorflow:latest-gpu 
-
+MAINTAINER Avgerinos Christos <christosavg@gmail.com>
 
 RUN mkdir -p /subspace/
 RUN mkdir -p /subspace/Data/

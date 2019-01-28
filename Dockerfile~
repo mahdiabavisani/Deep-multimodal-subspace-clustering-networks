@@ -18,4 +18,4 @@ ENV MODEL EYBfc_af
 WORKDIR /subspace/
 
 CMD ["sh", "-c", "python affinity_fusion.py --mat ${MAT} --model ${MODEL} && /bin/bash"]
-#CMD ["sh", "-c", "python3 -m motmetrics.apps.eval_motchallenge ${GT_DIR} ${TEST_DIR} && /bin/bash"]
+
