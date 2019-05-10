@@ -12,6 +12,25 @@ This repository contains the implementation of the paper "Deep multimodal subspa
 ![fig1](https://user-images.githubusercontent.com/18729506/45457918-2f195c00-b6bf-11e8-908b-01817a5e3387.jpg)
 
 
+## Citation
+
+Please use the following to refer to this work in publications:
+
+<pre><code>
+@ARTICLE{8488484, 
+author={M. {Abavisani} and V. M. {Patel}}, 
+journal={IEEE Journal of Selected Topics in Signal Processing}, 
+title={Deep Multimodal Subspace Clustering Networks}, 
+year={2018}, 
+volume={12}, 
+number={6}, 
+pages={1601-1614}, 
+doi={10.1109/JSTSP.2018.2875385}, 
+ISSN={1932-4553}, 
+month={Dec},}
+</code></pre>
+
+
 ## Setup:
 #### Dependencies:
 Tensorflow, numpy, sklearn, munkres, scipy.
@@ -39,21 +58,3 @@ For example:
 ```
 python pretrain_affinity_fusion.py --mat EYB_fc --model mymodel --epoch 100000
 ```
-
-## Citation
-
-Please use the following to refer to this work in publications:
-
-<pre><code>
-@ARTICLE{8488484, 
-author={M. {Abavisani} and V. M. {Patel}}, 
-journal={IEEE Journal of Selected Topics in Signal Processing}, 
-title={Deep Multimodal Subspace Clustering Networks}, 
-year={2018}, 
-volume={12}, 
-number={6}, 
-pages={1601-1614}, 
-doi={10.1109/JSTSP.2018.2875385}, 
-ISSN={1932-4553}, 
-month={Dec},}
-</code></pre>
