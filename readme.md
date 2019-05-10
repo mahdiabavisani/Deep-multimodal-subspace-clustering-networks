@@ -40,4 +40,20 @@ For example:
 python pretrain_affinity_fusion.py --mat EYB_fc --model mymodel --epoch 100000
 ```
 
+## Citation
 
+Please use the following to refer to this work in publications:
+
+<pre><code>
+@ARTICLE{8488484, 
+author={M. {Abavisani} and V. M. {Patel}}, 
+journal={IEEE Journal of Selected Topics in Signal Processing}, 
+title={Deep Multimodal Subspace Clustering Networks}, 
+year={2018}, 
+volume={12}, 
+number={6}, 
+pages={1601-1614}, 
+doi={10.1109/JSTSP.2018.2875385}, 
+ISSN={1932-4553}, 
+month={Dec},}
+</code></pre>
